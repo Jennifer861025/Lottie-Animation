@@ -1,0 +1,41 @@
+body{
+    background-color: #000;
+}
+.title {
+    font-weight: 100;
+    font-size: 3em;
+    margin-top: 0.5em;
+    color: #fff;
+}
+
+.btn__group{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    width: 25%;
+    color: #fff;
+    margin: 0 2%;
+}
+
+.im{
+    margin-top: 5%;
+}
+
+#lottie-start{
+    background-color: lightseagreen;
+    
+}
+
+#lottie-pause{
+    background-color: rgb(112, 195, 247);
+}
+
+#lottie-stop{
+    background-color: rgb(252, 160, 174);
+}
+
+#openingLottie{
+    height: 70vh;
+}
